@@ -11,9 +11,7 @@ Checkered area is the area of the actual LCD screen glass and the solid lip regi
 
 https://www.amazon.com/gp/product/B08HH329TR/
 
-This is what I used:
-![photon mono 2k  polerized film guide](https://user-images.githubusercontent.com/28960829/136739509-b0b4c793-dcb4-425b-897c-6de5e630d2c9.png)
-
+This is the general product: ![photon mono 2k  polerized film guide](https://user-images.githubusercontent.com/28960829/136739509-b0b4c793-dcb4-425b-897c-6de5e630d2c9.png)
 
 
 File I made is attached. Hope this helps and if there's a better one out there for this size printer, let me know.
