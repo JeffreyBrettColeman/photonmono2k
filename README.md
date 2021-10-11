@@ -1,4 +1,4 @@
-## Photon Mono2k 
+## Photon Mono 2k LCD Polerized Film Replacement
 Files helpful for LCD polarizing film repair on the Photon Mono 2k version.
 
 I'm making 
