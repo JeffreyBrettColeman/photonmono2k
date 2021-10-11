@@ -2,7 +2,7 @@
 
 Hope this helps other [ANYCUBIC Photon Mono 6.08'' 2K Monochrome LCD 3D Printer](https://www.amazon.com/gp/product/B0793PYDF7) users out there.
 
-**Disclaimer, this is *NOT* an official source and I am in no way affiliated with [ANYCUBIC](https://www.anycubic.com/). I just own one of their printers and use it a lot.**
+**Disclaimer: This is *NOT* an official source and I am in no way affiliated with [ANYCUBIC](https://www.anycubic.com/). I just own one of their printers and use it a lot.**
 
 **Words to the wise:**
 
