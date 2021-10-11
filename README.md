@@ -2,7 +2,7 @@
 
 Hope this helps other [ANYCUBIC Photon Mono 6.08'' 2K Monochrome LCD 3D Printer](https://www.amazon.com/gp/product/B0793PYDF7) users out there.
 
-Files helpful for LCD polarizing film repair on the Photon Mono 2k version.
+**Words to the wise, ensure your film sheet is at a 0° rotation before lining up to the guide cutting sheet. An angle of 105° will not work.**
 
 I had so much trouble replacing the lcd polarizing film on my photon mono 2k and I'm dropping this here because I had to make it to get exactly what I wanted.
 
@@ -14,7 +14,7 @@ This is the needed image at 15°
 
 If there's a better one out there for this size printer, let me know.
 
-**Words to the wise, ensure your film sheet is at a 0° rotation before lining up to the guide cutting sheet. An angle of 105° will not work.**
+
 
 Further insturctions can be found here in this article: [How to fix the screen on your Anycubic Photon Mono-X](http://www.elitegeek.net/how-to-fix-the-screen-on-your-anycubic-photon-mono-x/) which is what I originally found but noticed that the file didn't fully suit my needs.
 
