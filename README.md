@@ -7,7 +7,7 @@ Hope this helps other [ANYCUBIC Photon Mono 6.08'' 2K Monochrome LCD 3D Printer]
   1. Ensure your film sheet is at a 0° rotation before lining up to the guide cutting sheet. An angle of 105° will not work. Keep track of the angle to ensure you don't start cutting for the wrong orientation.
   2. Complete insturctions can be found here in this article: [How to fix the screen on your Anycubic Photon Mono-X](http://www.elitegeek.net/how-to-fix-the-screen-on-your-anycubic-photon-mono-x/) which is what I originally found but noticed that the file didn't fully suit my needs as the guide sheet is too big for my smaller mono.
   3. There's no warenty here on this. Be sure you understand what you're doing when you replace this.
-  4. Eye protection is essential. UV radiation is dangerous to your eyes.
+  4. Eye protection is essential. UV radiation is dangerous to your eyes, skin, and to any pets wandering about.
 
 I had so much trouble replacing the lcd polarizing film on my photon mono 2k and I'm dropping this here because I had to make it to get exactly what I wanted.
 
