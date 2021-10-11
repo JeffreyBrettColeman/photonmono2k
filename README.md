@@ -13,5 +13,5 @@ This is the general product: [photon mono 2k  polerized film guide](https://user
 
 File I made is attached. Hope this helps and if there's a better one out there for this size printer, let me know.
 
-Further insturctions can be found here in this article: ![How to fix the screen on your Anycubic Photon Mono-X](http://www.elitegeek.net/how-to-fix-the-screen-on-your-anycubic-photon-mono-x/) which is what I originally found but noticed that the file didn't fully suit my needs.
+Further insturctions can be found here in this article: [How to fix the screen on your Anycubic Photon Mono-X](http://www.elitegeek.net/how-to-fix-the-screen-on-your-anycubic-photon-mono-x/) which is what I originally found but noticed that the file didn't fully suit my needs.
 
