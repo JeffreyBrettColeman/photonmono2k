@@ -12,7 +12,7 @@ This is the needed image at 15°
 
 ![photon mono 2k  polerized film guide](https://user-images.githubusercontent.com/28960829/136741929-e0e23aa7-9d5f-4cc5-be50-3dd96b3c9d02.png)
 
-File I made is attached. Hope this helps and if there's a better one out there for this size printer, let me know.
+If there's a better one out there for this size printer, let me know.
 
 Further insturctions can be found here in this article: [How to fix the screen on your Anycubic Photon Mono-X](http://www.elitegeek.net/how-to-fix-the-screen-on-your-anycubic-photon-mono-x/) which is what I originally found but noticed that the file didn't fully suit my needs.
 
