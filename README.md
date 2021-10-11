@@ -9,6 +9,7 @@ Checkered area is the area of the actual LCD screen glass and the solid lip regi
 Hope this  helps those photon mono 2k users out there.
 
 This is what I used:
+![photon mono 2k  polerized film guide](https://user-images.githubusercontent.com/28960829/136739509-b0b4c793-dcb4-425b-897c-6de5e630d2c9.png)
 
 https://www.amazon.com/gp/product/B0793PYDF7/
 
