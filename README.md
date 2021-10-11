@@ -1,6 +1,6 @@
 # Photon Mono 2k LCD Polerized Film Replacement
 
-Hope this helps other ![ANYCUBIC Photon Mono 6.08'' 2K Monochrome LCD 3D Printer](https://www.amazon.com/gp/product/B0793PYDF7), users out there.
+Hope this helps other ![ANYCUBIC Photon Mono 6.08'' 2K Monochrome LCD 3D Printer](https://www.amazon.com/gp/product/B0793PYDF7) users out there.
 
 Files helpful for LCD polarizing film repair on the Photon Mono 2k version.
 
