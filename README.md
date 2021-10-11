@@ -6,7 +6,9 @@ I had so much trouble replacing the lcd polarizing film on my photon mono 2k and
 
 Checkered area is the area of the actual LCD screen glass and the solid lip region is where it would overlay with the lip trails off. I left this like this because it's been necessary to give it a little play for final adjustments before the thermal and black tape.
 
-Hope this  helps those photon mono 2k users out there.
+Hope this  helps those ANYCUBIC Photon Mono 3D Printer, UV LCD Resin 3D Printer Fast Printing with 6.08'' 2K Monochrome LCD users out there.
+
+https://www.amazon.com/gp/product/B08HH329TR/
 
 This is what I used:
 ![photon mono 2k  polerized film guide](https://user-images.githubusercontent.com/28960829/136739509-b0b4c793-dcb4-425b-897c-6de5e630d2c9.png)
