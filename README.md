@@ -2,6 +2,10 @@
 
 I had trouble replacing the lcd polarizing film on my photon mono 2k due to varying sources and search results and I'm dropping this here because I had to make it to get exactly what I wanted. Hope this helps other [ANYCUBIC Photon Mono 6.08'' 2K Monochrome LCD 3D Printer](https://www.amazon.com/gp/product/B0793PYDF7) users out there.
 
+**New Disclaimer: The given angle in the mentioned guide below is not the angle for this intended printer. The pattern size is correct. Working on measuring the correct angle and I will be making updates.**
+
+See: https://github.com/JeffreyBrettColeman/photonmono2kpolarizerfilmpattern/issues/11
+
 **Disclaimer: This is *NOT* an official source and I am in no way affiliated with [ANYCUBIC](https://www.anycubic.com/). I just own one of their printers and use it a lot.**
 
 **Words to the wise:**
